@@ -4,7 +4,7 @@ import scribeTranscript from "../assets/scribe-transcript.png";
 import Container from "@mui/material/Container";
 import Grid from "@mui/material/Grid2";
 import { Button, Stack, Typography } from "@mui/material";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 
 const RealTimeTranscription = () => {
   return (

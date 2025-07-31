@@ -14,7 +14,7 @@ import {
 } from "@mui/material";
 import CheckCircleIcon from "@mui/icons-material/CheckCircle";
 import CancelIcon from "@mui/icons-material/Cancel";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 import { useMemo, memo } from "react";
 
 const PricingPage = () => {

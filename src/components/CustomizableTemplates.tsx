@@ -2,7 +2,7 @@ import { Button, Container, Stack, Typography } from "@mui/material";
 import Box from "@mui/material/Box";
 import Grid from "@mui/material/Grid2";
 import scribeTemplateSnip from "../assets/scribe-templates.png";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 
 const CustomizableTemplates = () => {
   return (

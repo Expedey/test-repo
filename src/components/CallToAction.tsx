@@ -1,5 +1,5 @@
 import { Box, Typography, Button, Container } from "@mui/material";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 
 const CallToAction = () => {
   return (

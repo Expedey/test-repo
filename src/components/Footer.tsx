@@ -1,6 +1,6 @@
 import { Box, Typography, IconButton } from "@mui/material";
 import { LinkedIn, Twitter, Facebook } from "@mui/icons-material";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 
 const Footer = () => {
   return (

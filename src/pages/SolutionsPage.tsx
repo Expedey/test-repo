@@ -7,7 +7,7 @@ import CallToAction from "../components/CallToAction";
 import RoadMap from "../components/RoadMap";
 import Stack from "@mui/material/Stack";
 import Button from "@mui/material/Button";
-import { NavLink } from "react-router";
+import { NavLink } from "react-router-dom";
 
 const SolutionsPage = () => {
   return (
